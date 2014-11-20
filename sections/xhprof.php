@@ -8,6 +8,10 @@
         <ul>
             <li>Developed by Facebook and released as open-source in 2009</li>
             <li>PECL extension</li>
+            <li>Lightweight on profiling data</li>
+            <li>Lightweight on profiling performance hit</li>
+            <li>Passive profiler</li>
+            <li>Includes webgui for reviewing and comparing profiling data</li>
         </ul>
     </section>
 
@@ -74,7 +78,44 @@ $run_id = $xhprof_runs->save_run($xhprof_data, "xhprof_foo");
             <img src="images/xhprof-helper-chrome.webp" height="300" width="480"/>
             <li><a href="https://chrome.google.com/webstore/detail/xhprof-helper/adnlhmmjijeflmbmlpmhilkicpnodphi">XHProf Helper for Chrome</a></li>
             <li><a href="https://addons.mozilla.org/nl/firefox/addon/xhprof-helper-for-firefox/">XHProf Helper for Firefox</a></li>
-
+            <li>Sets $_COOKIE['_profile'] to 1</li>
         </ul>
+    </section>
+
+    <section>
+        <h2>XHGui</h2>
+
+        <ul>
+            <li>Web frontend for profile data</li>
+            <li>Requires MongoDB</li>
+            <li>Shows callstacks</li>
+            <li>Shows callgraphs</li>
+            <li>Can compare different runs</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>XHGui</h2>
+        <img src="images/xhgui1.png"/>
+    </section>
+    <section>
+        <h2>XHGui</h2>
+        <img src="images/xhgui2.png"/>
+    </section>
+    <section>
+        <h2>XHGui Compare</h2>
+        <img src="images/xhgui3.png"/>
+    </section>
+    <section>
+        <h2>XHGui Compare</h2>
+        <img src="images/xhgui4.png"/>
+    </section>
+    <section>
+        <h2>XHGui Compare difference</h2>
+        <img src="images/xhgui5.png"/>
+    </section>
+    <section>
+        <h2>XHGui Callstack</h2>
+        <img src="images/xhgui6.png"/>
     </section>
 </section>

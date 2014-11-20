@@ -19,10 +19,10 @@
     <section>
         <h2>I <3 feedback</h2>
         <ul>
-            <li>Joind.in: <a href="http://www.joind.in/talk/12802">http://www.joind.in/talk/12802</a></li>
+            <li>Joind.in: <a href="https://joind.in/12802">https://joind.in/12802</a></li>
             <li>GitHub: <a href="http://github.com/dennisdegreef">http://github.com/dennisdegreef</a></li>
             <li>Twitter: <a href="http://twitter.com/dennisdegreef">@dennisdegreef</a></li>
-            <li>IRC: link0 on Freenode #amsterdamphp</li>
+            <li>IRC: link0 on Freenode <a href="irc://irc.freenode.net/amsterdamphp">#amsterdamphp</a></li>
         </ul>
         <br />
         <br />

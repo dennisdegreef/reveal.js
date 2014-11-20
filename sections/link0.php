@@ -13,6 +13,7 @@
                     <li>Memory</li>
                     <li>Flysystem</li>
                     <li>Zend\Db\Adapter</li>
+                    <li>MongoDB (work in progress)</li>
                 </ul>
             </li>
             <li>Available on composer/packagist</li>

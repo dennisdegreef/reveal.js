@@ -51,6 +51,8 @@
             'static-analysis',
             'dynamic-analysis',
             'why',
+            'cause',
+            'active-passive',
             'xdebug',
             'xhprof',
             'link0',

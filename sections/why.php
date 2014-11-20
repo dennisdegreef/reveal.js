@@ -37,4 +37,13 @@
         </small></p>
     </section>
 
+    <section>
+        <h2>Warning!</h2>
+        <br />
+        <blockquote>Premature optimization is the root of all evil<br /> -- Donald Knuth</blockquote>
+        <br />
+
+        <p>Only perform optimization when there is a need to.</p>
+    </section>
+
 </section>
