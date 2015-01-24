@@ -3,10 +3,10 @@
         <h1>Static analysis</h1>
     </section>
     <section>
-        <h2>Definition</h2>
+        <h2>Wikipedia</h2>
 
         <p>
-            Static program analysis is the analysis of computer software that is performed without actually executing programs
+            <span style="font-weight: bold; color: #eee8d5;">Static program analysis</span> is the analysis of computer software that is performed <span style="font-weight: bold; color: #eee8d5;">without actually executing programs</span>
         </p>
         <br/>
 

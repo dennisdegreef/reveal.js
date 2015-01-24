@@ -17,7 +17,7 @@
         <h2>Active profiler</h2>
         <ul>
             <li>Used during development</li>
-            <li>Gather more information than passive profilers</li>
+            <li>Gather more information than passive profilers <br />(like variables/values)</li>
             <li>Performance impact is bigger</li>
             <li>Should _NOT_ be used in production</li>
             <li>Example: <a href="http://xdebug.org/">Xdebug</a></li>
@@ -28,7 +28,9 @@
         <h2>Passive profiler</h2>
         <ul>
             <li>Minimal impact on performance</li>
-            <li>Gathers less but sufficient information to diagnose issue</li>
+            <li>Gathers less but sufficient information to diagnose issues<br />
+            (Only records function calls and cpu + mem)
+            </li>
             <li>Examples: <a href="http://php.net/manual/en/book.xhprof.php">XHProf</a>, <a href="http://newrelic.com/">New Relic</a>, <a href="https://blackfire.io/">Blackfire.io</a></li>
         </ul>
     </section>

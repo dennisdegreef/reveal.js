@@ -10,7 +10,7 @@
             <li>Debugging CPU performance</li>
             <li>Debugging memory performance</li>
             <li>Debugging IO performance</li>
-            <li>See what function is called how much</li>
+            <li>See which function is called how many times</li>
             <li>Gain insight of the black box that is the application</li>
         </ul>
     </section>

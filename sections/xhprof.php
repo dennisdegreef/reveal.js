@@ -8,9 +8,7 @@
         <ul>
             <li>Developed by Facebook and released as open-source in 2009</li>
             <li>PECL extension</li>
-            <li>Lightweight on profiling data</li>
-            <li>Lightweight on profiling performance hit</li>
-            <li>Passive profiler</li>
+            <li>Lightweight for being a passive profiler</li>
             <li>Includes webgui for reviewing and comparing profiling data</li>
         </ul>
     </section>
@@ -25,9 +23,6 @@ apt-get install -y php5-xhprof
 brew install php56-xhprof
 
 # For Windows, use PECL or download a .dll somewhere, or compile for your own
-
-
-/!\ NOTE: Don't forget to restart if running through a webserver /!\
 </pre></code>
     </section>
 
