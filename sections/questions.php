@@ -6,7 +6,7 @@
     <section>
         <h2>Questions? I <3 feedback</h2>
         <ul>
-            <li>Joind.in: <a href="https://joind.in/12802">https://joind.in/12802</a></li>
+            <li>Joind.in: <a href="https://joind.in/13420">https://joind.in/talk/view/13420</a></li>
             <li>GitHub: <a href="http://github.com/dennisdegreef">http://github.com/dennisdegreef</a></li>
             <li>Twitter: <a href="http://twitter.com/dennisdegreef">@dennisdegreef</a></li>
             <li>IRC: link0 on Freenode</li>
@@ -14,7 +14,7 @@
         <br />
         <br />
         <h3>Slides are also on joind.in</h3>
-        <span><img src="images/joind-in-qr-code.png" height="200" width="200" /></span>
+        <span><img src="http://chart.apis.google.com/chart?chs=400x400&cht=qr&chl=https%3A%2F%2Fjoind.in%2F%2F13420" height="200" width="200" /></span>
     </section>
 
     <section>
